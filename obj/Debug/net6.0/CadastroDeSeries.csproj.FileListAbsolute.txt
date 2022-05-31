@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.AssemblyInfo.cs
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\bin\Debug\net6.0\CadastroDeSeries.exe
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\bin\Debug\net6.0\CadastroDeSeries.deps.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\bin\Debug\net6.0\CadastroDeSeries.runtimeconfig.json
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\bin\Debug\net6.0\CadastroDeSeries.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\bin\Debug\net6.0\CadastroDeSeries.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\refint\CadastroDeSeries.dll
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.pdb
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\CadastroDeSeries.genruntimeconfig.cache
+C:\Users\defaultuser0\OneDrive\Área de Trabalho\Programs\DIO\cadastro-de-series\obj\Debug\net6.0\ref\CadastroDeSeries.dll
